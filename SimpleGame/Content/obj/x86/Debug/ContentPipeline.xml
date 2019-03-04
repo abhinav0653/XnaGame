@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2019-03-03T21:07:56.5526672+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\hero.png</Source>
+      <Name>Textures\hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\hero.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\hero - kick.png</Source>
+      <Name>Textures\hero - kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\hero - kick.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\robot.png</Source>
+      <Name>Textures\robot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\robot.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\explosion.png</Source>
+      <Name>Textures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\explosion.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\explode_1.png</Source>
+      <Name>Textures\explode_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\explode_1.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\startmenu.png</Source>
+      <Name>Textures\startmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\startmenu.xnb</Output>
+      <Time>2019-03-03T21:56:43.7584772+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\VS2008\SimpleGame\SimpleGame\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\VS2008\SimpleGame\SimpleGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\VS2008\SimpleGame\SimpleGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-03-03T17:01:00.7774103+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

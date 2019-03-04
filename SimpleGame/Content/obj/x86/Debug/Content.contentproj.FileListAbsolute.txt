@@ -1,0 +1,1 @@
+D:\VS2008\SimpleGame\SimpleGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

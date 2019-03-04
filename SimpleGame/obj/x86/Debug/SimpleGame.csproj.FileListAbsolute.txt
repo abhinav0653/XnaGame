@@ -1,0 +1,13 @@
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\hero.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\hero - kick.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\explosion.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\robot.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\startmenu.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\explode_1.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\Content\Textures\background.xnb
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\SimpleGame.exe
+D:\VS2008\SimpleGame\SimpleGame\bin\x86\Debug\SimpleGame.pdb
+D:\VS2008\SimpleGame\SimpleGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS2008\SimpleGame\SimpleGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\VS2008\SimpleGame\SimpleGame\obj\x86\Debug\SimpleGame.exe
+D:\VS2008\SimpleGame\SimpleGame\obj\x86\Debug\SimpleGame.pdb
